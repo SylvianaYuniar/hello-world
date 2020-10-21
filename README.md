@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi
+
+Saya sangat menyukain budaya jepang. :)
